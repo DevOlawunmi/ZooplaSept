@@ -1,12 +1,14 @@
 package com.zoopla.stepDefinitions;
 
+import com.zoopla.pages.BasePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class SearchRentPropertyStepsDef {
+public class SearchRentPropertyStepsDef extends BasePage {
     @Given("I navigate to zoopla homepage")
     public void i_navigate_to_zoopla_homepage() {
+        launchURL();
             }
 
 
