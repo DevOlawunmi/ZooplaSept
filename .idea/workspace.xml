@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96ef5a06-4310-4680-b2dd-0927220ff9f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zoopla/commons/Browsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/zoopla/commons/DriverLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zoopla/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zoopla/runner/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,39 +99,55 @@
       <option name="project" value="LOCAL" />
       <updated>1601348026811</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Browser class methods written">
+      <created>1601349910128</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601349910128</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hook Class added">
+      <created>1601350529112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601350529112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial framework commit" />
     <MESSAGE value="Steps Definition successfully generated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Steps Definition successfully generated" />
+    <MESSAGE value="Browser class methods written" />
+    <MESSAGE value="Hook Class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hook Class added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1601348026085">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1601350528459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601348026085" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601347963004">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601350528459" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1601356196795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601347963004" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601347963004">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601356196795" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1601356196795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601347963004" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601347963003">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601356196795" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1601356196795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601347963003" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601347963004">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601356196795" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1601356196795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601347963004" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1601348029452">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601356196795" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1601350532871">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601348029452" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601350532871" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1601002713763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
